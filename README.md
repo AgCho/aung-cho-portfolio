@@ -17,12 +17,11 @@
 ### **Frontend & Web**
 - **Frontend:** JavaScript, jQuery, Bootstrap, HTML5, CSS3
 - **Web Technologies:** ASP.NET MVC, Razor Pages, Blazor
-- **Data Visualization:** Power BI, Tableau, SSRS
+- **Data Visualization & BI Tools:** Power BI, Tableau, SSRS, Advanced Excel, DAX
 
 ### **Database & Data**
 - **Databases:** SQL Server, Azure SQL, PostgreSQL, MySQL
 - **Data Skills:** T-SQL Optimization, Stored Procedures, ETL (SSIS), Power Automate
-- **BI Tools:** Power BI, SSRS, Advanced Excel, DAX
 - **Data Processing:** Python, Pandas, Numpy, Apache Spark
 
 ## 📫 Connect With Me
