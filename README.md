@@ -24,13 +24,15 @@
 - **Data Skills:** T-SQL Optimization, Stored Procedures, ETL (SSIS), Power Automate
 - **Data Processing:** Python, Pandas, Numpy, Apache Spark
 
+### **Tools & Platforms**
+- Git, Microsoft Azure, SharePoint Online, Power Automate, CI/CD, Agile/Scrum
+
 ## 📫 Connect With Me
 - 📧 **Email:** agcho80@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/cho-aung](https://linkedin.com/in/cho-aung)
 - 🏢 **Location:** Kitchener, Ontario, Canada
 
-### **Tools & Platforms**
-- Git, Microsoft Azure, SharePoint Online, Power Automate, CI/CD, Agile/Scrum
+
 
 <!--
 **AgCho/AgCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
