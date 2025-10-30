@@ -1,4 +1,10 @@
-## Hello, I'm Aung Cho 👋
+# Aung Cho — Data & .NET Portfolio 
+
+Hi — I’m **Aung Cho**, a Data / .NET Developer based in Kitchener, Ontario, Canada 🇨🇦  
+I build applications, ETL pipelines, and analytical dashboards using Microsoft technologies and modern data tools.
+
+📫 **Email:** agcho80@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/cho-aung](https://linkedin.com/in/cho-aung)
 
 <!--
 **AgCho/AgCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
