@@ -12,7 +12,7 @@
 ### **Backend Development**
 - **Languages:** C#, T-SQL, Python, JavaScript
 - **Frameworks:** .NET 8, ASP.NET Core, Entity Framework
-- **API Development:** ASP.NET Web API (RESTful API)s
+- **API Development:** ASP.NET Web API (RESTful APIs)
 
 ### **Frontend & Web**
 - **Frontend:** JavaScript, jQuery, Bootstrap, HTML5, CSS3
